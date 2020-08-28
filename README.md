@@ -20,7 +20,7 @@ This project was developed with the following technologies:
 
 ### How To Install
 
-To clone and run this application, you'll need Git, Node.js + Yarn installed on your computer.
+To clone and run this application, you'll need Git, Node.js, NPM/Yarn & Expo installed on your computer.
 
 From your command line:
 
@@ -28,10 +28,10 @@ From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/gideonfernandes/NLW-ecoleta
+$ git clone https://github.com/gideonfernandes/next-level-week-1-ecoleta
 
 # Go into the repository
-$ cd NLW-ecoleta/backend
+$ cd next-level-week-1-ecoleta/backend
 
 # Install dependencies
 $ yarn install
@@ -51,11 +51,8 @@ $ yarn dev
 #### Install Front-end
 
 ```bash
-# Clone this repository
-$ git clone https://github.com/gideonfernandes/NLW-ecoleta
-
 # Go into the repository
-$ cd NLW-ecoleta/frontent
+$ cd next-level-week-1-ecoleta/frontend
 
 # Install dependencies
 $ yarn install
@@ -69,11 +66,8 @@ $ yarn start
 #### Install Mobile
 
 ```bash
-# Clone this repository
-$ git clone https://github.com/gideonfernandes/NLW-ecoleta
-
 # Go into the repository
-$ cd NLW-ecoleta/mobile
+$ cd next-level-week-1-ecoleta/mobile
 
 # Install dependencies
 $ yarn install
